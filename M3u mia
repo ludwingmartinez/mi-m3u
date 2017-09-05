@@ -1,0 +1,928 @@
+#EXTM3U tvg-shift=3
+
+
+
+#EXTINF -1   http://chileiptv.cl/cl.m3u
+
+
+#EXTINF -1  http://exabytetv.info/lista.m3u
+
+#EXTINF -1 http://iptvchile.xyz/listas/kids.m3u
+
+#EXTINF -1 http://iptvchile.xyz/listas/peliculas.m3u
+#EXTINF:-1 tvg-ID="" tvg-name="ESTACION ZOMBIE: TREN A BUSAN" tvg-logo="http://192.99.100.26:8000/images/5700672.jpg" group-title="",ESTACION ZOMBIE: TREN A BUSAN
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/977.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="CL: CDF HD - Solo Partidos" tvg-logo="" group-title="CHILE",CL: CDF HD - Solo Partidos
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/974.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="--------PAQUETE NACIONALES--------" tvg-logo="" group-title="",--------PAQUETE NACIONALES--------
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/928.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MX: Azteca 7" tvg-logo="http://ns503499.ip-192-99-100.net/misc/3700.png" group-title="MEXICO",MX: Azteca 7
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/17.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MX: Azteca 13" tvg-logo="http://fdzeta.com/subir/images/04RZd.png" group-title="MEXICO",MX: Azteca 13
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/735.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MX: Azteca Noticias" tvg-logo="http://fdzeta.com/subir/images/OuFvf.png" group-title="MEXICO",MX: Azteca Noticias
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/736.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MX: Az Mundo" tvg-logo="http://ns503499.ip-192-99-100.net/misc/1101.png" group-title="MEXICO",MX: Az Mundo
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/32.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MX: Canal 5 El Lider" tvg-logo="http://ns503499.ip-192-99-100.net/misc/3666.png" group-title="MEXICO",MX: Canal 5 El Lider
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/9.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MX: Canal 22 Mexico" tvg-logo="http://ns503499.ip-192-99-100.net/misc/3706.png" group-title="MEXICO",MX: Canal 22 Mexico
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/23.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MX: Canal Once" tvg-logo="http://fdzeta.com/subir/images/YZFr.png" group-title="MEXICO",MX: Canal Once
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/740.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MX: Efekto TV" tvg-logo="http://ns503499.ip-192-99-100.net/misc/619.png" group-title="MEXICO",MX: Efekto TV
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/109.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MX: Foro TV" tvg-logo="http://ns503499.ip-192-99-100.net/misc/3704.png" group-title="MEXICO",MX: Foro TV
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/21.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MX: Ingenio TV" tvg-logo="http://ns503499.ip-192-99-100.net/misc/3702.png" group-title="MEXICO",MX: Ingenio TV
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/19.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MX: Las Estrellas" tvg-logo="http://ns503499.ip-192-99-100.net/misc/633.png" group-title="MEXICO",MX: Las Estrellas
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/33.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MX: PROYECTO 40" tvg-logo="http://fdzeta.com/subir/images/VfE6I.png" group-title="MEXICO",MX: PROYECTO 40
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/739.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MX: Televisa Canal 5" tvg-logo="http://ns503499.ip-192-99-100.net/misc/865.png" group-title="MEXICO",MX: Televisa Canal 5
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/24.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MX: Teleformula" tvg-logo="http://ns503499.ip-192-99-100.net/misc/3705.png" group-title="MEXICO",MX: Teleformula
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/22.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MX: Trendy Channel" tvg-logo="https://k61.kn3.net/79A0FC3CD.png" group-title="MEXICO",MX: Trendy Channel
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/738.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MX: TVC" tvg-logo="http://ns503499.ip-192-99-100.net/misc/3703.png" group-title="MEXICO",MX: TVC
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/20.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AR: America HD" tvg-logo="" group-title="ARGENTINA",AR: America HD
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/728.m3u8
+#EXTINF:-1 tvg-ID="AR: CANAL 26 HD" tvg-name="AR: CANAL 26 HD" tvg-logo="" group-title="ARGENTINA",AR: CANAL 26 HD
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/912.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AR: DeporTV" tvg-logo="" group-title="DEPORTES",AR: DeporTV
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/727.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AR: El Trece HD" tvg-logo="" group-title="ARGENTINA",AR: El Trece HD
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/731.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AR: TaTeTi" tvg-logo="" group-title="ARGENTINA",AR: TaTeTi
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/733.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AR: TodoNoticias" tvg-logo="" group-title="ARGENTINA",AR: TodoNoticias
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/726.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Tv Publica" tvg-logo="" group-title="ARGENTINA",AR: Tv Publica
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/730.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CL: El 13 HD" tvg-logo="" group-title="CHILE",CL: El 13 HD
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/909.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CL: LA RED HD" tvg-logo="" group-title="CHILE",CL: LA RED HD
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/910.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CL: TV Chile" tvg-logo="http://ns503499.ip-192-99-100.net/misc/3707.png" group-title="ENTRENIMIENTO",CL: TV Chile
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/46.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CO: Cable Noticias" tvg-logo="" group-title="COLOMBIA",CO: Cable Noticias
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/900.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CO: Caracol Internacional" tvg-logo="http://ns503499.ip-192-99-100.net/misc/1119.png" group-title="ENTRENIMIENTO",CO: Caracol Internacional
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/47.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CO: El Tiempo" tvg-logo="" group-title="COLOMBIA",CO: El Tiempo
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/901.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CO: MI MUSICA HD" tvg-logo="" group-title="COLOMBIA",CO: MI MUSICA HD
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/899.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CO: RCN Novelas" tvg-logo="http://ns503499.ip-192-99-100.net/misc/881.png" group-title="ENTRENIMIENTO",CO: RCN Novelas
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/41.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="EC: ECUADOR TV" tvg-logo="" group-title="ECUADOR",EC: ECUADOR TV
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/902.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="EC: OromarTV  HD" tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="ECUADOR",EC: OromarTV  HD
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/584.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PE: America" tvg-logo="" group-title="PERU",PE: America
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/954.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PE: Canal N" tvg-logo="" group-title="PERU",PE: Canal N
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/958.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PE: Capital Tv" tvg-logo="" group-title="",PE: Capital Tv
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/965.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PE: GolPeru" tvg-logo="" group-title="PERU",PE: GolPeru
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/964.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PE: Latina" tvg-logo="" group-title="PERU",PE: Latina
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/953.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PE. WillaxTv" tvg-logo="" group-title="",PE. WillaxTv
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/962.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PR: ABC Puerto Rico" tvg-logo="http://ns503499.ip-192-99-100.net/misc/90.png" group-title="PUERTO-RICO",PR: ABC Puerto Rico
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/177.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PR: Mega TV" tvg-logo="http://ns503499.ip-192-99-100.net/misc/3641.png" group-title="PUERTO-RICO",PR: Mega TV
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/37.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PR: Mega TV Puerto Rico" tvg-logo="http://ns503499.ip-192-99-100.net/misc/3725.png" group-title="PUERTO-RICO",PR: Mega TV Puerto Rico
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/176.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PR: NBC Puerto Rico" tvg-logo="http://ns503499.ip-192-99-100.net/misc/3676.png" group-title="PUERTO-RICO",PR: NBC Puerto Rico
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/178.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PR: Punto 2" tvg-logo="http://ns503499.ip-192-99-100.net/misc/3086.png" group-title="PUERTO-RICO",PR: Punto 2
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/179.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PR: Teleisla Puerto Rico" tvg-logo="http://ns503499.ip-192-99-100.net/misc/3677.png" group-title="PUERTO-RICO",PR: Teleisla Puerto Rico
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/180.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PR: Telemundo Puerto Rico" tvg-logo="http://ns503499.ip-192-99-100.net/misc/2989.png" group-title="PUERTO-RICO",PR: Telemundo Puerto Rico
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/171.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PR: Univision Puerto Rico" tvg-logo="http://ns503499.ip-192-99-100.net/misc/2994.png" group-title="PUERTO-RICO",PR: Univision Puerto Rico
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/173.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PR: Wapa" tvg-logo="http://ns503499.ip-192-99-100.net/misc/2996.png" group-title="PUERTO-RICO",PR: Wapa
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/172.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PR: Wapa2" tvg-logo="http://ns503499.ip-192-99-100.net/misc/2991.png" group-title="PUERTO-RICO",PR: Wapa2
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/170.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RD: Digital 15" tvg-logo="" group-title="R.DOMINICANA",RD: Digital 15
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/771.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RD: Telemicro HD" tvg-logo="" group-title="R.DOMINICANA",RD: Telemicro HD
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/783.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RD: Teleuniverso" tvg-logo="" group-title="R.DOMINICANA",RD: Teleuniverso
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/772.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BBC Entertainment Latinoamerica" tvg-logo="http://ns503499.ip-192-99-100.net/misc/805.png" group-title="DOCUMENTALES",BBC Entertainment Latinoamerica
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/85.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CNN en EspaÃ±ol" tvg-logo="" group-title="NOTICIAS",CNN en EspaÃ±ol
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/113.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="NTN 24" tvg-logo="http://ns503499.ip-192-99-100.net/misc/945.png" group-title="NOTICIAS",NTN 24
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/116.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="--------PAQUETE ENTRENIMIENTO--------" tvg-logo="" group-title="",--------PAQUETE ENTRENIMIENTO--------
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/929.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="A&amp;E Latinoamerica" tvg-logo="http://ns503499.ip-192-99-100.net/misc/43.png" group-title="SERIES",A&amp;E Latinoamerica
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/93.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AXN Latinoamerica" tvg-logo="http://ns503499.ip-192-99-100.net/misc/833.png" group-title="SERIES",AXN Latinoamerica
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/96.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AMC" tvg-logo="http://ns503499.ip-192-99-100.net/misc/229.png" group-title="PELICULAS",AMC
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/142.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Comedy Central Latinoamerica" tvg-logo="http://ns503499.ip-192-99-100.net/misc/617.png" group-title="SERIES",Comedy Central Latinoamerica
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/107.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Distrito Comedia" tvg-logo="http://ns503499.ip-192-99-100.net/misc/879.png" group-title="SERIES",Distrito Comedia
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/106.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Sony" tvg-logo="http://ns503499.ip-192-99-100.net/misc/837.png" group-title="SERIES",Canal Sony
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/84.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="De Pelicula" tvg-logo="http://ns503499.ip-192-99-100.net/misc/3687.png" group-title="PELICULAS",De Pelicula
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/127.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="De Pelicula Multiplex" tvg-logo="http://ns503499.ip-192-99-100.net/misc/3688.png" group-title="PELICULAS",De Pelicula Multiplex
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/128.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Estrella TV" tvg-logo="http://ns503499.ip-192-99-100.net/misc/2737.png" group-title="ENTRENIMIENTO",Estrella TV
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/34.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Elgourmet" tvg-logo="http://ns503499.ip-192-99-100.net/misc/613.png" group-title="SERIES",Elgourmet
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/100.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="E! Latinoamerica" tvg-logo="http://ns503499.ip-192-99-100.net/misc/141.png" group-title="SERIES",E! Latinoamerica
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/88.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Latinoamerica" tvg-logo="http://ns503499.ip-192-99-100.net/misc/821.png" group-title="SERIES",Fox Latinoamerica
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/91.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Life" tvg-logo="http://ns503499.ip-192-99-100.net/misc/157.png" group-title="SERIES",FOX Life
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/105.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FX Latino" tvg-logo="http://ns503499.ip-192-99-100.net/misc/143.png" group-title="SERIES",FX Latino
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/89.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Glitz Latinoamerica" tvg-logo="http://ns503499.ip-192-99-100.net/misc/859.png" group-title="SERIES",Glitz Latinoamerica
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/104.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Mas Chic" tvg-logo="http://ns503499.ip-192-99-100.net/misc/3696.png" group-title="SERIES",Mas Chic
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/102.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Multimedios Plus" tvg-logo="http://ns503499.ip-192-99-100.net/misc/845.png" group-title="SERIES",Multimedios Plus
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/110.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MundoFox" tvg-logo="http://ns503499.ip-192-99-100.net/misc/151.png" group-title="SERIES",MundoFox
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/98.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="NBC Universo" tvg-logo="http://ns503499.ip-192-99-100.net/misc/1805.png" group-title="ENTRENIMIENTO",NBC Universo
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/38.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Syfy Latinoamerica" tvg-logo="http://ns503499.ip-192-99-100.net/misc/145.png" group-title="SERIES",Syfy Latinoamerica
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/92.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TBS America Latina" tvg-logo="http://ns503499.ip-192-99-100.net/misc/155.png" group-title="SERIES",TBS America Latina
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/103.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TNT Series Latinoamerica" tvg-logo="http://ns503499.ip-192-99-100.net/misc/153.png" group-title="SERIES",TNT Series Latinoamerica
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/99.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Universal Channel America Latina" tvg-logo="http://ns503499.ip-192-99-100.net/misc/209.png" group-title="SERIES",Universal Channel America Latina
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/90.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Unicable" tvg-logo="http://ns503499.ip-192-99-100.net/misc/1393.png" group-title="SERIES",Unicable
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/86.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="UniMAS" tvg-logo="http://ns503499.ip-192-99-100.net/misc/88.png" group-title="ENTRENIMIENTO",UniMAS
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/36.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Univision" tvg-logo="http://ns503499.ip-192-99-100.net/misc/98.png" group-title="ENTRENIMIENTO",Univision
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/35.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Univision Los Angeles" tvg-logo="http://ns503499.ip-192-99-100.net/misc/3523.png" group-title="ENTRENIMIENTO",Univision Los Angeles
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/174.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="WOBI" tvg-logo="http://ns503499.ip-192-99-100.net/misc/3692.png" group-title="DOCUMENTALES",WOBI
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/112.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Telemundo" tvg-logo="http://ns503499.ip-192-99-100.net/misc/815.png" group-title="ENTRENIMIENTO",Telemundo
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/43.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Telemundo Los Angeles" tvg-logo="http://ns503499.ip-192-99-100.net/misc/3767.png" group-title="ENTRENIMIENTO",Telemundo Los Angeles
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/175.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Telemundo Internacional" tvg-logo="http://ns503499.ip-192-99-100.net/misc/3285.png" group-title="ENTRENIMIENTO",Telemundo Internacional
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/42.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Tru TV America Latina" tvg-logo="http://ns503499.ip-192-99-100.net/misc/159.png" group-title="SERIES",Tru TV America Latina
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/108.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Warner Channel Latinoamerica" tvg-logo="http://ns503499.ip-192-99-100.net/misc/839.png" group-title="SERIES",Warner Channel Latinoamerica
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/87.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="--------PAQUETE INFANTIL--------" tvg-logo="" group-title="",--------PAQUETE INFANTIL--------
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/931.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Baby TV Latinoamerica" tvg-logo="http://ns503499.ip-192-99-100.net/misc/139.png" group-title="INFANTIL",Baby TV Latinoamerica
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/82.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CBeebies Latinoamerica" tvg-logo="http://ns503499.ip-192-99-100.net/misc/609.png" group-title="INFANTIL",CBeebies Latinoamerica
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/83.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Cartoon Network Latinoamerica" tvg-logo="http://ns503499.ip-192-99-100.net/misc/133.png" group-title="INFANTIL",Cartoon Network Latinoamerica
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/80.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Boomerang Latinoamerica" tvg-logo="http://ns503499.ip-192-99-100.net/misc/3332.png" group-title="INFANTIL",Boomerang Latinoamerica
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/79.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Kids America Latina" tvg-logo="http://ns503499.ip-192-99-100.net/misc/131.png" group-title="INFANTIL",Discovery Kids America Latina
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/77.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Disney Channel Norte" tvg-logo="http://ns503499.ip-192-99-100.net/misc/42.png" group-title="INFANTIL",Disney Channel Norte
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/72.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Disney Junior Norte" tvg-logo="http://ns503499.ip-192-99-100.net/misc/843.png" group-title="INFANTIL",Disney Junior Norte
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/74.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Disney XD Norte" tvg-logo="http://ns503499.ip-192-99-100.net/misc/255.png" group-title="INFANTIL",Disney XD Norte
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/73.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Nick Jr Latinoamerica" tvg-logo="http://ns503499.ip-192-99-100.net/misc/3337.png" group-title="INFANTIL",Nick Jr Latinoamerica
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/76.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Nickelodeon Latinoamerica" tvg-logo="http://ns503499.ip-192-99-100.net/misc/817.png" group-title="INFANTIL",Nickelodeon Latinoamerica
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/75.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Once NiÃ±os" tvg-logo="" group-title="INFANTIL",Once NiÃ±os
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/78.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="--------PAQUETE DEPORTES-------" tvg-logo="" group-title="",--------PAQUETE DEPORTES-------
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/930.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BARCA TV" tvg-logo="" group-title="DEPORTES",BARCA TV
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/824.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN LA LIGA" tvg-logo="" group-title="DEPORTES",BEIN LA LIGA
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/825.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS HD" tvg-logo="" group-title="DEPORTES",BEIN SPORTS HD
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/826.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Sports en EspaÃ±ol" tvg-logo="https://k61.kn3.net/1/F/3/D/B/1/38D.png" group-title="DEPORTES",Bein Sports en EspaÃ±ol
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/66.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Claro Sports" tvg-logo="http://ns503499.ip-192-99-100.net/misc/3695.png" group-title="DEPORTES",Claro Sports
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/67.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN Latinoamerica" tvg-logo="http://ns503499.ip-192-99-100.net/misc/819.png" group-title="DEPORTES",ESPN Latinoamerica
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/58.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 2 Latinoamerica" tvg-logo="http://ns503499.ip-192-99-100.net/misc/123.png" group-title="DEPORTES",ESPN 2 Latinoamerica
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/59.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 3 Latinoamerica" tvg-logo="http://ns503499.ip-192-99-100.net/misc/125.png" group-title="DEPORTES",ESPN 3 Latinoamerica
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/60.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="F1 Latinoamerica" tvg-logo="http://ns503499.ip-192-99-100.net/misc/969.png" group-title="DEPORTES",F1 Latinoamerica
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/64.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports Latinoamerica" tvg-logo="http://ns503499.ip-192-99-100.net/misc/831.png" group-title="DEPORTES",Fox Sports Latinoamerica
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/61.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports 3 Latinoamerica" tvg-logo="http://ns503499.ip-192-99-100.net/misc/127.png" group-title="DEPORTES",Fox Sports 3 Latinoamerica
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/63.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports 2 Latinoamerica" tvg-logo="http://ns503499.ip-192-99-100.net/misc/215.png" group-title="DEPORTES",Fox Sports 2 Latinoamerica
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/62.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="GOAL" tvg-logo="" group-title="DEPORTES",GOAL
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/851.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="LA LIGATV BAR HD" tvg-logo="" group-title="DEPORTES",LA LIGATV BAR HD
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/857.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MOVISTAR DEPORTES" tvg-logo="" group-title="DEPORTES",MOVISTAR DEPORTES
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/863.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MOVISTAR DEPORTES 2" tvg-logo="" group-title="DEPORTES",MOVISTAR DEPORTES 2
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/864.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MOVISTAR  F1" tvg-logo="" group-title="DEPORTES",MOVISTAR  F1
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/858.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MOVISTAR FUTBOL HD" tvg-logo="" group-title="DEPORTES",MOVISTAR FUTBOL HD
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/867.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MOVISTAR MOTO GP" tvg-logo="" group-title="DEPORTES",MOVISTAR MOTO GP
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/869.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="NBC Sport Network" tvg-logo="http://ns503499.ip-192-99-100.net/misc/2502.png" group-title="USA",NBC Sport Network
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/199.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Univision Deportes" tvg-logo="http://ns503499.ip-192-99-100.net/misc/3207.png" group-title="DEPORTES",Univision Deportes
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/71.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Univision TDN" tvg-logo="http://ns503499.ip-192-99-100.net/misc/869.png" group-title="DEPORTES",Univision TDN
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/69.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TDN Mexico" tvg-logo="http://ns503499.ip-192-99-100.net/misc/635.png" group-title="DEPORTES",TDN Mexico
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/68.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TYC SPORT HD" tvg-logo="https://k61.kn3.net/6/1/A/7/2/6/AB3.jpg" group-title="DEPORTES",TYC SPORT HD
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/770.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TELEDEPORTE" tvg-logo="" group-title="DEPORTES",TELEDEPORTE
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/887.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="UFC Network Latinoamerica" tvg-logo="http://ns503499.ip-192-99-100.net/misc/625.png" group-title="DEPORTES",UFC Network Latinoamerica
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/65.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="--------PAQUETE CULTURA--------" tvg-logo="" group-title="",--------PAQUETE CULTURA--------
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/934.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Animal Planet Latinoamerica" tvg-logo="http://ns503499.ip-192-99-100.net/misc/121.png" group-title="DOCUMENTALES",Animal Planet Latinoamerica
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/57.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Home &amp; Health Latinoamerica" tvg-logo="http://ns503499.ip-192-99-100.net/misc/44.png" group-title="DOCUMENTALES",Discovery Home &amp; Health Latinoamerica
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/52.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Theater" tvg-logo="http://ns503499.ip-192-99-100.net/misc/29.png" group-title="DOCUMENTALES",Discovery Theater
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/50.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery en EspaÃ±ol" tvg-logo="http://www.lyngsat.com/logo/tv/dd/discovery_global_us.png" group-title="DOCUMENTALES",Discovery en EspaÃ±ol
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/49.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery World" tvg-logo="http://ns503499.ip-192-99-100.net/misc/1493.png" group-title="DOCUMENTALES",Discovery World
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/51.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Investigation Discovery Latinoamerica" tvg-logo="http://ns503499.ip-192-99-100.net/misc/147.png" group-title="DOCUMENTALES",Investigation Discovery Latinoamerica
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/94.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Film &amp; Arts Latinoamerica" tvg-logo="http://ns503499.ip-192-99-100.net/misc/943.png" group-title="PELICULAS",Film &amp; Arts Latinoamerica
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/147.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="I-Sat" tvg-logo="http://ns503499.ip-192-99-100.net/misc/947.png" group-title="PELICULAS",I-Sat
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/145.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="History en EspaÃ±ol" tvg-logo="" group-title="DOCUMENTALES",History en EspaÃ±ol
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/54.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="H2 Latinoamerica" tvg-logo="http://ns503499.ip-192-99-100.net/misc/119.png" group-title="DOCUMENTALES",H2 Latinoamerica
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/53.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Lifetime Latinoamerica" tvg-logo="http://ns503499.ip-192-99-100.net/misc/161.png" group-title="SERIES",Lifetime Latinoamerica
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/111.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="National Geographic Latinoamerica" tvg-logo="http://ns503499.ip-192-99-100.net/misc/217.png" group-title="DOCUMENTALES",National Geographic Latinoamerica
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/55.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Nat Geo Wild Latino America" tvg-logo="http://ns503499.ip-192-99-100.net/misc/35.png" group-title="DOCUMENTALES",Nat Geo Wild Latino America
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/56.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TLC Latinoamerica" tvg-logo="http://ns503499.ip-192-99-100.net/misc/149.png" group-title="DOCUMENTALES",TLC Latinoamerica
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/95.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="--------PAQUETE MUSICA--------" tvg-logo="" group-title="",--------PAQUETE MUSICA--------
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/932.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Concert channel" tvg-logo="http://ns503499.ip-192-99-100.net/misc/3647.png" group-title="MUSICA",Concert channel
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/122.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Bandamax" tvg-logo="http://ns503499.ip-192-99-100.net/misc/853.png" group-title="MUSICA",Bandamax
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/125.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Exa TV" tvg-logo="http://ns503499.ip-192-99-100.net/misc/3697.png" group-title="MUSICA",Exa TV
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/124.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="HTV" tvg-logo="http://ns503499.ip-192-99-100.net/misc/163.png" group-title="MUSICA",HTV
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/123.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MTV Latinoamerica" tvg-logo="http://ns503499.ip-192-99-100.net/misc/829.png" group-title="MUSICA",MTV Latinoamerica
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/117.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MTV Hits Latinoamerica" tvg-logo="http://ns503499.ip-192-99-100.net/misc/883.png" group-title="MUSICA",MTV Hits Latinoamerica
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/118.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MTV Live" tvg-logo="http://ns503499.ip-192-99-100.net/misc/579.png" group-title="USA",MTV Live
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/467.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="VH1 Latino Norte" tvg-logo="http://ns503499.ip-192-99-100.net/misc/227.png" group-title="MUSICA",VH1 Latino Norte
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/120.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="VH1 Classic Europe" tvg-logo="http://ns503499.ip-192-99-100.net/misc/237.png" group-title="MUSICA",VH1 Classic Europe
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/119.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Video Rola" tvg-logo="http://ns503499.ip-192-99-100.net/misc/3698.png" group-title="MUSICA",Video Rola
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/126.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="--------PAQUETE PELICULAS--------" tvg-logo="" group-title="",--------PAQUETE PELICULAS--------
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/933.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CineCanal" tvg-logo="http://ns503499.ip-192-99-100.net/misc/841.png" group-title="PELICULAS",CineCanal
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/138.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CineCanal Prime" tvg-logo="http://ns503499.ip-192-99-100.net/misc/3693.png" group-title="PELICULAS",CineCanal Prime
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/139.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Cinema Dinamita" tvg-logo="http://ns503499.ip-192-99-100.net/misc/873.png" group-title="PELICULAS",Cinema Dinamita
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/129.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CineLatino" tvg-logo="http://ns503499.ip-192-99-100.net/misc/221.png" group-title="PELICULAS",CineLatino
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/131.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Cinemax Latinoamerica" tvg-logo="http://ns503499.ip-192-99-100.net/misc/165.png" group-title="PELICULAS",Cinemax Latinoamerica
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/140.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Golden Multiplex" tvg-logo="http://ns503499.ip-192-99-100.net/misc/615.png" group-title="PELICULAS",Golden Multiplex
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/134.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Golden Premier 1" tvg-logo="http://ns503499.ip-192-99-100.net/misc/1787.png" group-title="PREMIUM",Golden Premier 1
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/168.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Golden Premier 2" tvg-logo="http://ns503499.ip-192-99-100.net/misc/1782.png" group-title="PREMIUM",Golden Premier 2
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/169.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Film Zone" tvg-logo="http://ns503499.ip-192-99-100.net/misc/169.png" group-title="PELICULAS",Film Zone
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/148.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Fox 1 Este" tvg-logo="http://ns503499.ip-192-99-100.net/misc/171.png" group-title="PREMIUM",Fox 1 Este
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/149.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Action Este" tvg-logo="http://ns503499.ip-192-99-100.net/misc/179.png" group-title="PREMIUM",Fox Action Este
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/154.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Cinema" tvg-logo="http://ns503499.ip-192-99-100.net/misc/177.png" group-title="PREMIUM",Fox Cinema
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/153.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Comedy" tvg-logo="http://ns503499.ip-192-99-100.net/misc/175.png" group-title="PREMIUM",Fox Comedy
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/152.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Classics Latinoamerica" tvg-logo="http://ns503499.ip-192-99-100.net/misc/185.png" group-title="PREMIUM",Fox Classics Latinoamerica
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/157.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Family" tvg-logo="http://ns503499.ip-192-99-100.net/misc/173.png" group-title="PREMIUM",Fox Family
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/151.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Movies Latinoamerica" tvg-logo="http://ns503499.ip-192-99-100.net/misc/183.png" group-title="PREMIUM",Fox Movies Latinoamerica
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/156.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Latinoamerica" tvg-logo="http://ns503499.ip-192-99-100.net/misc/207.png" group-title="PREMIUM",HBO Latinoamerica
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/158.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="HBO 2 Latinoamerica" tvg-logo="http://portal1.iptvprivateserver.tv/stalker_portal/misc/logos/320/187.png" group-title="PREMIUM",HBO 2 Latinoamerica
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/159.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Plus Oeste" tvg-logo="http://ns503499.ip-192-99-100.net/misc/191.png" group-title="PREMIUM",HBO Plus Oeste
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/161.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Plus Este" tvg-logo="http://ns503499.ip-192-99-100.net/misc/189.png" group-title="PREMIUM",HBO Plus Este
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/160.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Family Latinoamerica" tvg-logo="http://ns503499.ip-192-99-100.net/misc/193.png" group-title="PREMIUM",HBO Family Latinoamerica
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/162.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Signature Latinoamerica" tvg-logo="http://ns503499.ip-192-99-100.net/misc/195.png" group-title="PREMIUM",HBO Signature Latinoamerica
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/163.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Max Prime Este" tvg-logo="http://ns503499.ip-192-99-100.net/misc/199.png" group-title="PREMIUM",Max Prime Este
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/165.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Max UP Latinoamerica" tvg-logo="http://ns503499.ip-192-99-100.net/misc/197.png" group-title="PREMIUM",Max UP Latinoamerica
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/164.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MC" tvg-logo="http://ns503499.ip-192-99-100.net/misc/3701.png" group-title="PELICULAS",MC
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/18.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MultiPremier" tvg-logo="http://ns503499.ip-192-99-100.net/misc/293.png" group-title="PELICULAS",MultiPremier
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/130.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Studio Universal" tvg-logo="http://ns503499.ip-192-99-100.net/misc/167.png" group-title="PELICULAS",Studio Universal
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/143.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SPACE" tvg-logo="http://ns503499.ip-192-99-100.net/misc/835.png" group-title="PELICULAS",SPACE
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/141.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Sundance Channel Latinoamerica" tvg-logo="http://ns503499.ip-192-99-100.net/misc/621.png" group-title="PELICULAS",Sundance Channel Latinoamerica
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/136.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Paramount Channel Latinoamerica" tvg-logo="http://ns503499.ip-192-99-100.net/misc/18.png" group-title="PELICULAS",Paramount Channel Latinoamerica
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/135.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TNT America Latina" tvg-logo="http://ns503499.ip-192-99-100.net/misc/37.png" group-title="PELICULAS",TNT America Latina
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/137.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TCM America Latina" tvg-logo="http://ns503499.ip-192-99-100.net/misc/225.png" group-title="PELICULAS",TCM America Latina
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/144.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="--------PAQUETE ESPAÃ‘A--------" tvg-logo="" group-title="",--------PAQUETE ESPAÃ‘A--------
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/927.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="A&amp;E" tvg-logo="" group-title="ESPAÃ‘A",A&amp;E
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/818.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AMC HD" tvg-logo="" group-title="ESPAÃ‘A",AMC HD
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/819.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AXN HD" tvg-logo="" group-title="ESPAÃ‘A",AXN HD
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/821.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ANTENA 3*" tvg-logo="" group-title="ESPAÃ‘A",ANTENA 3*
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/820.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BOING" tvg-logo="" group-title="ESPAÃ‘A",BOING
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/827.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL COCINA" tvg-logo="" group-title="ESPAÃ‘A",CANAL COCINA
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/829.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CAZA Y PESCA" tvg-logo="" group-title="ESPAÃ‘A",CAZA Y PESCA
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/835.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="COMEDY CENTRAL" tvg-logo="" group-title="ESPAÃ‘A",COMEDY CENTRAL
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/838.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CUATRO" tvg-logo="" group-title="ESPAÃ‘A",CUATRO
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/841.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CRIMEN INVESTIGACION" tvg-logo="" group-title="ESPAÃ‘A",CRIMEN INVESTIGACION
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/840.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY" tvg-logo="" group-title="ESPAÃ‘A",DISCOVERY
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/843.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY CH" tvg-logo="" group-title="ESPAÃ‘A",DISNEY CH
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/844.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DIVINITY" tvg-logo="" group-title="ESPAÃ‘A",DIVINITY
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/845.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ENERGY" tvg-logo="" group-title="ESPAÃ‘A",ENERGY
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/847.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FDF" tvg-logo="" group-title="ESPAÃ‘A",FDF
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/848.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FOX HD" tvg-logo="" group-title="ESPAÃ‘A",FOX HD
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/849.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="HISTORIA" tvg-logo="" group-title="ESPAÃ‘A",HISTORIA
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/853.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="LA 1*" tvg-logo="" group-title="ESPAÃ‘A",LA 1*
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/855.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="LA 2" tvg-logo="" group-title="ESPAÃ‘A",LA 2
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/856.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MOVISTAR ACCION" tvg-logo="" group-title="ESPAÃ‘A",MOVISTAR ACCION
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/859.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MOVISTAR COMEDIA" tvg-logo="" group-title="ESPAÃ‘A",MOVISTAR COMEDIA
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/861.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MOVISTAR DCINE" tvg-logo="" group-title="ESPAÃ‘A",MOVISTAR DCINE
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/862.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MOVISTAR ESTRENOS" tvg-logo="" group-title="ESPAÃ‘A",MOVISTAR ESTRENOS
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/866.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MOVISTAR SERIES" tvg-logo="" group-title="ESPAÃ‘A",MOVISTAR SERIES
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/871.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="NATGEO HD" tvg-logo="" group-title="ESPAÃ‘A",NATGEO HD
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/875.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="NATGEO WILD HD" tvg-logo="" group-title="ESPAÃ‘A",NATGEO WILD HD
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/876.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="NEOX HD*" tvg-logo="" group-title="ESPAÃ‘A",NEOX HD*
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/877.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SEXTA*" tvg-logo="" group-title="ESPAÃ‘A",SEXTA*
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/883.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SYFY HD" tvg-logo="" group-title="ESPAÃ‘A",SYFY HD
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/884.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TCM" tvg-logo="" group-title="ESPAÃ‘A",TCM
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/885.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TLC" tvg-logo="http://ns503499.ip-192-99-100.net/misc/104.png" group-title="USA",TLC
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/373.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TELECINCO" tvg-logo="" group-title="ESPAÃ‘A",TELECINCO
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/886.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TNT HD" tvg-logo="" group-title="ESPAÃ‘A",TNT HD
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/889.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="VIAJAR" tvg-logo="" group-title="ESPAÃ‘A",VIAJAR
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/891.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="--------PAQUETE ADULTOS--------" tvg-logo="" group-title="",--------PAQUETE ADULTOS--------
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/925.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Juicy" tvg-logo="http://ns503499.ip-192-99-100.net/misc/603.png" group-title="ADULTOS",Juicy
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/249.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Real" tvg-logo="http://ns503499.ip-192-99-100.net/misc/601.png" group-title="ADULTOS",Real
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/248.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Sextreme" tvg-logo="http://ns503499.ip-192-99-100.net/misc/109.png" group-title="ADULTOS",Sextreme
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/251.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Playboy TV Latin America" tvg-logo="http://ns503499.ip-192-99-100.net/misc/111.png" group-title="ADULTOS",Playboy TV Latin America
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/262.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Venus" tvg-logo="http://ns503499.ip-192-99-100.net/misc/107.png" group-title="ADULTOS",Venus
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/250.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TV Hot" tvg-logo="http://ns503499.ip-192-99-100.net/misc/433.png" group-title="ADULTOS",TV Hot
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/247.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="--------PAQUETE USA--------" tvg-logo="" group-title="",--------PAQUETE USA--------
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/926.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="At The Races" tvg-logo="http://ns503499.ip-192-99-100.net/misc/267.png" group-title="USA",At The Races
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/210.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BOXnation" tvg-logo="http://ns503499.ip-192-99-100.net/misc/781.png" group-title="USA",BOXnation
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/216.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BT Sport 1" tvg-logo="http://ns503499.ip-192-99-100.net/misc/1287.png" group-title="USA",BT Sport 1
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/223.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BT Sport 2" tvg-logo="http://ns503499.ip-192-99-100.net/misc/1289.png" group-title="USA",BT Sport 2
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/224.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BT Sport 3" tvg-logo="http://ns503499.ip-192-99-100.net/misc/3674.png" group-title="USA",BT Sport 3
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/225.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CBS Sports Network" tvg-logo="http://ns503499.ip-192-99-100.net/misc/1219.png" group-title="USA",CBS Sports Network
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/198.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Eurosport 1" tvg-logo="http://ns503499.ip-192-99-100.net/misc/1347.png" group-title="USA",Eurosport 1
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/212.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Eurosport 2" tvg-logo="http://ns503499.ip-192-99-100.net/misc/1349.png" group-title="USA",Eurosport 2
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/213.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN US HD" tvg-logo="http://ns503499.ip-192-99-100.net/misc/549.png" group-title="USA",ESPN US HD
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/181.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ESPNU HD" tvg-logo="http://ns503499.ip-192-99-100.net/misc/567.png" group-title="USA",ESPNU HD
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/182.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 2 US" tvg-logo="http://ns503499.ip-192-99-100.net/misc/1215.png" group-title="USA",ESPN 2 US
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/184.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports Prime" tvg-logo="http://ns503499.ip-192-99-100.net/misc/3403.png" group-title="USA",Fox Sports Prime
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/232.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports Sun" tvg-logo="http://ns503499.ip-192-99-100.net/misc/3650.png" group-title="USA",Fox Sports Sun
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/230.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports West" tvg-logo="http://ns503499.ip-192-99-100.net/misc/2719.png" group-title="USA",Fox Sports West
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/238.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports South" tvg-logo="http://ns503499.ip-192-99-100.net/misc/3353.png" group-title="USA",Fox Sports South
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/234.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports 1 US" tvg-logo="http://ns503499.ip-192-99-100.net/misc/46.png" group-title="USA",Fox Sports 1 US
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/191.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports 2 US" tvg-logo="http://ns503499.ip-192-99-100.net/misc/673.png" group-title="USA",Fox Sports 2 US
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/192.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ESPNews US" tvg-logo="http://ns503499.ip-192-99-100.net/misc/1213.png" group-title="USA",ESPNews US
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/183.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MSG" tvg-logo="http://ns503499.ip-192-99-100.net/misc/1211.png" group-title="USA",MSG
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/215.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="New England Sports Network" tvg-logo="http://ns503499.ip-192-99-100.net/misc/3433.png" group-title="USA",New England Sports Network
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/236.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MLB Network" tvg-logo="http://ns503499.ip-192-99-100.net/misc/40.png" group-title="USA",MLB Network
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/193.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MAV tv" tvg-logo="http://ns503499.ip-192-99-100.net/misc/3242.png" group-title="USA",MAV tv
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/201.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="NBA TV" tvg-logo="http://ns503499.ip-192-99-100.net/misc/1207.png" group-title="USA",NBA TV
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/196.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MASN" tvg-logo="http://ns503499.ip-192-99-100.net/misc/3393.png" group-title="USA",MASN
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/235.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="NHL Network USA" tvg-logo="http://ns503499.ip-192-99-100.net/misc/41.png" group-title="USA",NHL Network USA
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/197.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="NFL Network" tvg-logo="http://ns503499.ip-192-99-100.net/misc/591.png" group-title="USA",NFL Network
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/194.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MUTV" tvg-logo="http://ns503499.ip-192-99-100.net/misc/269.png" group-title="USA",MUTV
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/214.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SKY Sports 1" tvg-logo="http://ns503499.ip-192-99-100.net/misc/1269.png" group-title="USA",SKY Sports 1
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/217.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SKY Sports 2" tvg-logo="http://ns503499.ip-192-99-100.net/misc/1271.png" group-title="USA",SKY Sports 2
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/218.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SKY SPORTS DARTS" tvg-logo="http://ns503499.ip-192-99-100.net/misc/1273.png" group-title="USA",SKY SPORTS DARTS
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/219.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SKY Sports 4" tvg-logo="http://ns503499.ip-192-99-100.net/misc/1277.png" group-title="USA",SKY Sports 4
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/221.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SKY Sports 5" tvg-logo="http://ns503499.ip-192-99-100.net/misc/1275.png" group-title="USA",SKY Sports 5
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/220.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SKY Sports F1" tvg-logo="http://ns503499.ip-192-99-100.net/misc/1267.png" group-title="USA",SKY Sports F1
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/222.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SKY Sports News" tvg-logo="http://ns503499.ip-192-99-100.net/misc/54.png" group-title="USA",SKY Sports News
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/185.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="True Movies" tvg-logo="http://ns503499.ip-192-99-100.net/misc/443.png" group-title="USA",True Movies
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/463.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Sony Movie Channel USA" tvg-logo="http://ns503499.ip-192-99-100.net/misc/671.png" group-title="USA",Sony Movie Channel USA
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/469.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Sportsnet Spectrum" tvg-logo="http://ns503499.ip-192-99-100.net/misc/3503.png" group-title="USA",Sportsnet Spectrum
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/239.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Tennis Channel" tvg-logo="http://ns503499.ip-192-99-100.net/misc/1830.png" group-title="USA",Tennis Channel
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/208.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Racing UK" tvg-logo="http://ns503499.ip-192-99-100.net/misc/1285.png" group-title="USA",Racing UK
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/211.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="WWE Network" tvg-logo="http://ns503499.ip-192-99-100.net/misc/3530.png" group-title="USA",WWE Network
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/200.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CBS TV" tvg-logo="" group-title="USA",CBS TV
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/580.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CBS Reality" tvg-logo="" group-title="USA",CBS Reality
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/582.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CBS Drama" tvg-logo="" group-title="USA",CBS Drama
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/581.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FOX USA" tvg-logo="http://ns503499.ip-192-99-100.net/misc/247.png" group-title="USA",FOX USA
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/382.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FXX East" tvg-logo="http://ns503499.ip-192-99-100.net/misc/1201.png" group-title="USA",FXX East
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/421.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ActionMax East" tvg-logo="http://ns503499.ip-192-99-100.net/misc/1199.png" group-title="USA",ActionMax East
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/436.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Cinemax West" tvg-logo="http://ns503499.ip-192-99-100.net/misc/541.png" group-title="USA",Cinemax West
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/435.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Crime &amp; Investigation Network" tvg-logo="http://ns503499.ip-192-99-100.net/misc/467.png" group-title="USA",Crime &amp; Investigation Network
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/424.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Encore East" tvg-logo="http://ns503499.ip-192-99-100.net/misc/26.png" group-title="USA",Encore East
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/444.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Encore Westerns" tvg-logo="http://ns503499.ip-192-99-100.net/misc/3152.png" group-title="USA",Encore Westerns
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/445.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="HBO East" tvg-logo="http://ns503499.ip-192-99-100.net/misc/1775.png" group-title="USA",HBO East
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/426.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Family East" tvg-logo="http://ns503499.ip-192-99-100.net/misc/1625.png" group-title="USA",HBO Family East
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/431.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Signature East" tvg-logo="http://ns503499.ip-192-99-100.net/misc/545.png" group-title="USA",HBO Signature East
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/428.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="HBO West" tvg-logo="http://ns503499.ip-192-99-100.net/misc/1777.png" group-title="USA",HBO West
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/429.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Zone" tvg-logo="http://ns503499.ip-192-99-100.net/misc/551.png" group-title="USA",HBO Zone
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/433.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="HBO 2 East" tvg-logo="http://ns503499.ip-192-99-100.net/misc/28.png" group-title="USA",HBO 2 East
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/427.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="HBO 2 West" tvg-logo="http://ns503499.ip-192-99-100.net/misc/665.png" group-title="USA",HBO 2 West
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/430.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Comedy East" tvg-logo="http://ns503499.ip-192-99-100.net/misc/589.png" group-title="USA",HBO Comedy East
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/432.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Hallmark Movies &amp; Mysteries" tvg-logo="http://ns503499.ip-192-99-100.net/misc/581.png" group-title="USA",Hallmark Movies &amp; Mysteries
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/468.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ION Television East" tvg-logo="http://ns503499.ip-192-99-100.net/misc/1882.png" group-title="USA",ION Television East
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/425.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Ovation" tvg-logo="http://ns503499.ip-192-99-100.net/misc/1209.png" group-title="USA",Ovation
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/423.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SKY Action &amp; Adventure" tvg-logo="http://ns503499.ip-192-99-100.net/misc/72.png" group-title="USA",SKY Action &amp; Adventure
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/457.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SKY Comedy" tvg-logo="http://ns503499.ip-192-99-100.net/misc/74.png" group-title="USA",SKY Comedy
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/458.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SKY Crime &amp; Thriller" tvg-logo="http://ns503499.ip-192-99-100.net/misc/76.png" group-title="USA",SKY Crime &amp; Thriller
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/459.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SKY Disney" tvg-logo="http://ns503499.ip-192-99-100.net/misc/68.png" group-title="USA",SKY Disney
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/455.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SKY Family" tvg-logo="http://ns503499.ip-192-99-100.net/misc/70.png" group-title="USA",SKY Family
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/456.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SKY Modern Greats" tvg-logo="http://ns503499.ip-192-99-100.net/misc/257.png" group-title="USA",SKY Modern Greats
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/454.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SKY Movies Drama" tvg-logo="http://ns503499.ip-192-99-100.net/misc/259.png" group-title="USA",SKY Movies Drama
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/460.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SKY News" tvg-logo="http://ns503499.ip-192-99-100.net/misc/249.png" group-title="USA",SKY News
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/415.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SKY Premiere" tvg-logo="http://ns503499.ip-192-99-100.net/misc/66.png" group-title="USA",SKY Premiere
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/453.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SKY Scifi &amp; Horror" tvg-logo="http://ns503499.ip-192-99-100.net/misc/78.png" group-title="USA",SKY Scifi &amp; Horror
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/461.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SKY Select" tvg-logo="http://ns503499.ip-192-99-100.net/misc/80.png" group-title="USA",SKY Select
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/462.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Starz Comedy East" tvg-logo="http://ns503499.ip-192-99-100.net/misc/575.png" group-title="USA",Starz Comedy East
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/450.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Starz Cinema East" tvg-logo="http://ns503499.ip-192-99-100.net/misc/573.png" group-title="USA",Starz Cinema East
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/449.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Starz East" tvg-logo="http://ns503499.ip-192-99-100.net/misc/23.png" group-title="USA",Starz East
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/446.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Starz Edge East" tvg-logo="http://ns503499.ip-192-99-100.net/misc/571.png" group-title="USA",Starz Edge East
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/448.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Starz Kids &amp; Family East" tvg-logo="http://ns503499.ip-192-99-100.net/misc/669.png" group-title="USA",Starz Kids &amp; Family East
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/452.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Starz In Black East" tvg-logo="http://ns503499.ip-192-99-100.net/misc/577.png" group-title="USA",Starz In Black East
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/451.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Starz West" tvg-logo="http://ns503499.ip-192-99-100.net/misc/569.png" group-title="USA",Starz West
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/447.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Showtime 2 East" tvg-logo="http://ns503499.ip-192-99-100.net/misc/557.png" group-title="USA",Showtime 2 East
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/439.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Showtime Beyond East" tvg-logo="http://ns503499.ip-192-99-100.net/misc/561.png" group-title="USA",Showtime Beyond East
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/441.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Showtime Showcase East" tvg-logo="http://ns503499.ip-192-99-100.net/misc/659.png" group-title="USA",Showtime Showcase East
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/440.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Showtime West" tvg-logo="http://ns503499.ip-192-99-100.net/misc/555.png" group-title="USA",Showtime West
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/438.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Syfy" tvg-logo="http://ns503499.ip-192-99-100.net/misc/3120.png" group-title="USA",Syfy
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/372.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TNT USA" tvg-logo="http://ns503499.ip-192-99-100.net/misc/565.png" group-title="USA",TNT USA
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/386.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="The Movie Channel Xtra East" tvg-logo="http://ns503499.ip-192-99-100.net/misc/563.png" group-title="USA",The Movie Channel Xtra East
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/443.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TCM US" tvg-logo="http://ns503499.ip-192-99-100.net/misc/675.png" group-title="USA",TCM US
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/380.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Boomerang USA" tvg-logo="http://ns503499.ip-192-99-100.net/misc/1885.png" group-title="USA",Boomerang USA
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/391.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Disney Channel East" tvg-logo="http://ns503499.ip-192-99-100.net/misc/21.png" group-title="USA",Disney Channel East
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/388.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Disney XD" tvg-logo="http://ns503499.ip-192-99-100.net/misc/1840.png" group-title="USA",Disney XD
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/390.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Disney Jr" tvg-logo="http://ns503499.ip-192-99-100.net/misc/1832.png" group-title="USA",Disney Jr
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/389.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Nickelodeon East" tvg-logo="http://ns503499.ip-192-99-100.net/misc/973.png" group-title="USA",Nickelodeon East
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/393.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Nick Jr USA" tvg-logo="http://ns503499.ip-192-99-100.net/misc/1852.png" group-title="USA",Nick Jr USA
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/394.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Teen Nick" tvg-logo="http://ns503499.ip-192-99-100.net/misc/1857.png" group-title="USA",Teen Nick
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/395.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Animal Planet" tvg-logo="http://ns503499.ip-192-99-100.net/misc/1825.png" group-title="USA",Animal Planet
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/401.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Life Channel" tvg-logo="http://ns503499.ip-192-99-100.net/misc/3526.png" group-title="USA",Discovery Life Channel
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/398.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FREEFORM" tvg-logo="http://ns503499.ip-192-99-100.net/misc/1835.png" group-title="USA",FREEFORM
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/396.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Investigation Discovery" tvg-logo="http://ns503499.ip-192-99-100.net/misc/1217.png" group-title="USA",Investigation Discovery
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/408.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="History" tvg-logo="http://ns503499.ip-192-99-100.net/misc/32.png" group-title="USA",History
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/370.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Nat Geo Wild" tvg-logo="http://ns503499.ip-192-99-100.net/misc/1810.png" group-title="USA",Nat Geo Wild
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/402.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="National Geographic Channel" tvg-logo="http://ns503499.ip-192-99-100.net/misc/897.png" group-title="USA",National Geographic Channel
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/403.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Oxygen" tvg-logo="http://ns503499.ip-192-99-100.net/misc/33.png" group-title="USA",Oxygen
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/375.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Science Channel" tvg-logo="http://ns503499.ip-192-99-100.net/misc/1295.png" group-title="USA",Science Channel
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/409.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Spike TV" tvg-logo="http://ns503499.ip-192-99-100.net/misc/1620.png" group-title="USA",Spike TV
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/418.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AMC East" tvg-logo="http://ns503499.ip-192-99-100.net/misc/663.png" group-title="USA",AMC East
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/379.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="A&amp;E East" tvg-logo="http://ns503499.ip-192-99-100.net/misc/583.png" group-title="USA",A&amp;E East
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/368.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CBS Action" tvg-logo="http://ns503499.ip-192-99-100.net/misc/1259.png" group-title="USA",CBS Action
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/378.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FX East" tvg-logo="http://ns503499.ip-192-99-100.net/misc/585.png" group-title="USA",FX East
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/384.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="NBC Miami" tvg-logo="http://ns503499.ip-192-99-100.net/misc/233.png" group-title="USA",NBC Miami
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/472.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TBS East" tvg-logo="http://ns503499.ip-192-99-100.net/misc/553.png" group-title="USA",TBS East
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/387.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="HGTV East" tvg-logo="" group-title="USA",HGTV East
+http://192.99.100.26:8000/live/jeancarlomendozaflores/gmail/570.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PELE, EL NACIMIENTO DE UNA LEYENDA" tvg-logo="http://192.99.100.26:8000/images/0995868.jpg" group-title="",PELE, EL NACIMIENTO DE UNA LEYENDA
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/969.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Presencia siniestra" tvg-logo="http://192.99.100.26:8000/images/2582500.jpg" group-title="VOD-ESPANOL",Presencia siniestra
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/961.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="LOS PEQUEÃ‘OS TRAVIESOS" tvg-logo="" group-title="",LOS PEQUEÃ‘OS TRAVIESOS
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/967.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Fantastic Beasts and Where to Find Them" tvg-logo="http://192.99.100.26:8000/images/3183660.jpg" group-title="",Fantastic Beasts and Where to Find Them
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/956.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="ESTE CUERPO NO ES MIO" tvg-logo="http://192.99.100.26:8000/images/0302640.jpg" group-title="VOD-ESPANOL",ESTE CUERPO NO ES MIO
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/970.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="El codigo del miedo" tvg-logo="http://192.99.100.26:8000/images/1656190.jpg" group-title="",El codigo del miedo
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/971.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="TERMINATOR 2: EL JUICIO FINAL" tvg-logo="http://192.99.100.26:8000/images/0103064.jpg" group-title="",TERMINATOR 2: EL JUICIO FINAL
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/942.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Sing" tvg-logo="http://192.99.100.26:8000/images/3470600.jpg" group-title="",Sing
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/943.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="El Aro vs La MaldiciÃ³n" tvg-logo="http://192.99.100.26:8000/images/not-found.jpg" group-title="VOD-ESPANOL",El Aro vs La MaldiciÃ³n
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/940.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Blood Father" tvg-logo="" group-title="VOD-ESPANOL",Blood Father
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/937.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="FENCES" tvg-logo="http://192.99.100.26:8000/images/2671706.jpg" group-title="VOD-ESPANOL",FENCES
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/936.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="BELLEZA INESPERADA" tvg-logo="http://192.99.100.26:8000/images/4682786.jpg" group-title="VOD-ESPANOL",BELLEZA INESPERADA
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/935.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="MOANA" tvg-logo="http://192.99.100.26:8000/images/3521164.jpg" group-title="VOD-ESPANOL",MOANA
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/904.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Mini EspÃ­as 2: La isla de los sueÃ±os perdidos" tvg-logo="http://192.99.100.26:8000/images/0287717.jpg" group-title="VOD-ESPANOL",Mini EspÃ­as 2: La isla de los sueÃ±os perdidos
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/778.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Jackie" tvg-logo="http://192.99.100.26:8000/images/1619029.jpg" group-title="VOD-ESPANOL",Jackie
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/782.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Un monstruo viene a verme" tvg-logo="http://192.99.100.26:8000/images/3416532.jpg" group-title="VOD-ESPANOL",Un monstruo viene a verme
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/776.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Silencio" tvg-logo="http://192.99.100.26:8000/images/0490215.jpg" group-title="VOD-ESPANOL",Silencio
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/775.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Figuras ocultas" tvg-logo="http://192.99.100.26:8000/images/4846340.jpg" group-title="VOD-ESPANOL",Figuras ocultas
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/774.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Doctor Strange" tvg-logo="http://192.99.100.26:8000/images/1211837.jpg" group-title="VOD-ESPANOL",Doctor Strange
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/773.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Hasta el ultimo Hombre" tvg-logo="http://192.99.100.26:8000/images/2119532.jpg" group-title="VOD-ESPANOL",Hasta el ultimo Hombre
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/768.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Titanic" tvg-logo="http://192.99.100.26:8000/images/0120338.jpg" group-title="VOD-ESPANOL",Titanic
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/758.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="LA LISTA DE SCHINDLER" tvg-logo="http://192.99.100.26:8000/images/0108052.jpg" group-title="VOD-ESPANOL",LA LISTA DE SCHINDLER
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/763.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="ENEMIGO AL ACECHO" tvg-logo="http://192.99.100.26:8000/images/0215750.jpg" group-title="VOD-ESPANOL",ENEMIGO AL ACECHO
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/764.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="El ExtraÃ±o Mundo de Jack" tvg-logo="http://192.99.100.26:8000/images/0107688.jpg" group-title="VOD-ESPANOL",El ExtraÃ±o Mundo de Jack
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/760.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="DRAGON BALL Z: LOS GUERREROS DE PLATA" tvg-logo="http://192.99.100.26:8000/images/0142238.jpg" group-title="VOD-ESPANOL",DRAGON BALL Z: LOS GUERREROS DE PLATA
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/765.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="AtracciÃ³n Peligrosa" tvg-logo="http://192.99.100.26:8000/images/0840361.jpg" group-title="VOD-ESPANOL",AtracciÃ³n Peligrosa
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/759.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Aladdin" tvg-logo="http://192.99.100.26:8000/images/0103639.jpg" group-title="VOD-ESPANOL",Aladdin
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/761.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="TE AMARE POR SIEMPRE" tvg-logo="http://192.99.100.26:8000/images/0452694.jpg" group-title="VOD-ESPANOL",TE AMARE POR SIEMPRE
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/743.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="La Mascara" tvg-logo="http://192.99.100.26:8000/images/0110475.jpg" group-title="VOD-ESPANOL",La Mascara
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/741.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="A golpe de monedas (2017)" tvg-logo="" group-title="VOD-ESPANOL",A golpe de monedas (2017)
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/745.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="La MontaÃ±a Embrujada (2009)" tvg-logo="http://192.99.100.26:8000/images/1075417.jpg" group-title="VOD-ESPANOL",La MontaÃ±a Embrujada (2009)
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/724.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Horizonte profundo (2016)" tvg-logo="http://192.99.100.26:8000/images/1860357.jpg" group-title="VOD-ESPANOL",Horizonte profundo (2016)
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/725.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="El hombre de las mil caras" tvg-logo="http://192.99.100.26:8000/images/1713440.jpg" group-title="VOD-ESPANOL",El hombre de las mil caras
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/723.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Clinical (2017)" tvg-logo="http://192.99.100.26:8000/images/5577742.jpg" group-title="VOD-ESPANOL",Clinical (2017)
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/722.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Reina de Katwe" tvg-logo="http://192.99.100.26:8000/images/4341582.jpg" group-title="VOD-ESPANOL",Reina de Katwe
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/720.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="La La Land" tvg-logo="http://192.99.100.26:8000/images/3783958.jpg" group-title="VOD-ESPANOL",La La Land
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/719.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="DEATH RACE 2050" tvg-logo="http://192.99.100.26:8000/images/5493706.jpg" group-title="VOD-ESPANOL",DEATH RACE 2050
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/721.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Yo soy Bolt (2016)" tvg-logo="http://192.99.100.26:8000/images/0408304.jpg" group-title="VOD-ESPANOL",Yo soy Bolt (2016)
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/618.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Lost Boy" tvg-logo="http://192.99.100.26:8000/images/not-found.jpg" group-title="VOD-ESPANOL",The Lost Boy
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/613.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Max Steel (2016)" tvg-logo="http://192.99.100.26:8000/images/1472584.jpg" group-title="VOD-ESPANOL",Max Steel (2016)
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/617.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Los siete magnÃ­ficos" tvg-logo="http://192.99.100.26:8000/images/2404435.jpg" group-title="VOD-ESPANOL",Los siete magnÃ­ficos
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/616.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="la hora del temblor" tvg-logo="http://192.99.100.26:8000/images/not-found.jpg" group-title="VOD-ESPANOL",la hora del temblor
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/615.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="La chica del tren (2016)" tvg-logo="http://192.99.100.26:8000/images/3631112.jpg" group-title="VOD-ESPANOL",La chica del tren (2016)
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/611.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Espiando a los vecinos" tvg-logo="http://192.99.100.26:8000/images/2387499.jpg" group-title="VOD-ESPANOL",Espiando a los vecinos
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/601.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Cosas insignificantes" tvg-logo="http://192.99.100.26:8000/images/0910855.jpg" group-title="VOD-ESPANOL",Cosas insignificantes
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/612.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="127 Horas (2010)" tvg-logo="http://192.99.100.26:8000/images/1542344.jpg" group-title="VOD-ESPANOL",127 Horas (2010)
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/619.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="No respires" tvg-logo="http://192.99.100.26:8000/images/4160708.jpg" group-title="VOD-ESPANOL",No respires
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/600.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="El contador" tvg-logo="http://192.99.100.26:8000/images/2140479.jpg" group-title="VOD-ESPANOL",El contador
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/572.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Sully" tvg-logo="http://192.99.100.26:8000/images/3263904.jpg" group-title="VOD-ESPANOL",Sully
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/571.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="little manhattan" tvg-logo="http://192.99.100.26:8000/images/0412922.jpg" group-title="VOD-ESPANOL",little manhattan
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/544.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Mi pobre angelito" tvg-logo="http://192.99.100.26:8000/images/0099785.jpg" group-title="VOD-ESPANOL",Mi pobre angelito
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/541.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Mi pobre angelito 2" tvg-logo="http://192.99.100.26:8000/images/0104431.jpg" group-title="VOD-ESPANOL",Mi pobre angelito 2
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/542.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Mi pobre angelito 3" tvg-logo="http://192.99.100.26:8000/images/0119303.jpg" group-title="VOD-ESPANOL",Mi pobre angelito 3
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/543.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El regalo prometido" tvg-logo="http://192.99.100.26:8000/images/0116705.jpg" group-title="VOD-ESPANOL",El regalo prometido
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/539.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El grinch" tvg-logo="http://192.99.100.26:8000/images/0170016.jpg" group-title="VOD-ESPANOL",El grinch
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/540.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Yo antes de ti" tvg-logo="http://192.99.100.26:8000/images/2674426.jpg" group-title="VOD-ESPANOL",Yo antes de ti
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/491.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Salve CÃ©sar" tvg-logo="http://192.99.100.26:8000/images/0475290.jpg" group-title="VOD-ESPANOL",Salve CÃ©sar
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/486.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Nerve: un juego sin reglas" tvg-logo="http://192.99.100.26:8000/images/3531824.jpg" group-title="VOD-ESPANOL",Nerve: un juego sin reglas
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/494.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Money Monster 2016" tvg-logo="http://192.99.100.26:8000/images/2241351.jpg" group-title="VOD-ESPANOL",Money Monster 2016
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/492.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Maximum Ride" tvg-logo="http://192.99.100.26:8000/images/0825283.jpg" group-title="VOD-ESPANOL",Maximum Ride
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/490.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Los conspiradores" tvg-logo="http://192.99.100.26:8000/images/3963816.jpg" group-title="VOD-ESPANOL",Los conspiradores
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/489.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="La resurrecciÃ³n de Cristo" tvg-logo="http://192.99.100.26:8000/images/3231054.jpg" group-title="VOD-ESPANOL",La resurrecciÃ³n de Cristo
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/495.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="LOS SIETE MAGNIFICOS" tvg-logo="http://192.99.100.26:8000/images/2404435.jpg" group-title="VOD-ESPANOL",LOS SIETE MAGNIFICOS
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/501.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El Especialista: La ResurrecciÃ³n" tvg-logo="http://192.99.100.26:8000/images/3522806.jpg" group-title="VOD-ESPANOL",El Especialista: La ResurrecciÃ³n
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/500.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="La leyenda de TarzÃ¡n" tvg-logo="http://192.99.100.26:8000/images/0918940.jpg" group-title="VOD-ESPANOL",La leyenda de TarzÃ¡n
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/498.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="La gran revancha" tvg-logo="http://192.99.100.26:8000/images/1661382.jpg" group-title="VOD-ESPANOL",La gran revancha
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/485.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Keanu" tvg-logo="http://192.99.100.26:8000/images/4139124.jpg" group-title="VOD-ESPANOL",Keanu
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/488.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Independence Day: Resurgence" tvg-logo="http://192.99.100.26:8000/images/1628841.jpg" group-title="VOD-ESPANOL",Independence Day: Resurgence
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/487.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El libro de la selva" tvg-logo="http://192.99.100.26:8000/images/3040964.jpg" group-title="VOD-ESPANOL",El libro de la selva
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/497.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El infiltrado" tvg-logo="http://192.99.100.26:8000/images/1355631.jpg" group-title="VOD-ESPANOL",El infiltrado
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/496.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Dos tipos peligrosos" tvg-logo="http://192.99.100.26:8000/images/3799694.jpg" group-title="VOD-ESPANOL",Dos tipos peligrosos
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/499.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="DemoliciÃ³n (2015)" tvg-logo="http://192.99.100.26:8000/images/1172049.jpg" group-title="VOD-ESPANOL",DemoliciÃ³n (2015)
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/483.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Daddys Home" tvg-logo="http://192.99.100.26:8000/images/1528854.jpg" group-title="VOD-ESPANOL",Daddys Home
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/482.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Criminal" tvg-logo="http://192.99.100.26:8000/images/3014866.jpg" group-title="VOD-ESPANOL",Criminal
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/481.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Capitan America Civil War" tvg-logo="http://192.99.100.26:8000/images/3498820.jpg" group-title="VOD-ESPANOL",Capitan America Civil War
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/480.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Buscando a dory" tvg-logo="http://192.99.100.26:8000/images/2277860.jpg" group-title="VOD-ESPANOL",Buscando a dory
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/484.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Buenos vecinos 2" tvg-logo="http://192.99.100.26:8000/images/4438848.jpg" group-title="VOD-ESPANOL",Buenos vecinos 2
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/493.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Be Somebody" tvg-logo="http://192.99.100.26:8000/images/5512872.jpg" group-title="VOD-ESPANOL",Be Somebody
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/479.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Alicia a travÃ©s del espejo" tvg-logo="http://192.99.100.26:8000/images/2567026.jpg" group-title="VOD-ESPANOL",Alicia a travÃ©s del espejo
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/477.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Y de repente tÃº" tvg-logo="http://192.99.100.26:8000/images/3152624.jpg" group-title="VOD-ESPANOL",Y de repente tÃº
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/508.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="X-Men: Apocalipsis" tvg-logo="http://192.99.100.26:8000/images/3385516.jpg" group-title="VOD-ESPANOL",X-Men: Apocalipsis
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/502.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Warcraft: El Origen" tvg-logo="http://192.99.100.26:8000/images/0803096.jpg" group-title="VOD-ESPANOL",Warcraft: El Origen
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/504.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Vida animada" tvg-logo="http://192.99.100.26:8000/images/not-found.jpg" group-title="VOD-ESPANOL",Vida animada
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/530.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Una Pareja Dispareja" tvg-logo="http://192.99.100.26:8000/images/2238032.jpg" group-title="VOD-ESPANOL",Una Pareja Dispareja
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/525.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Tortugas Ninja" tvg-logo="http://192.99.100.26:8000/images/1291150.jpg" group-title="VOD-ESPANOL",Tortugas Ninja
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/519.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Dresser" tvg-logo="http://192.99.100.26:8000/images/4247618.jpg" group-title="VOD-ESPANOL",The Dresser
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/517.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Tentacion peligrosa" tvg-logo="http://192.99.100.26:8000/images/not-found.jpg" group-title="VOD-ESPANOL",Tentacion peligrosa
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/522.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Regreso al futuro III" tvg-logo="http://192.99.100.26:8000/images/0099088.jpg" group-title="VOD-ESPANOL",Regreso al futuro III
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/507.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Regreso al futuro II" tvg-logo="http://192.99.100.26:8000/images/0096874.jpg" group-title="VOD-ESPANOL",Regreso al futuro II
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/506.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Regreso al futuro" tvg-logo="http://192.99.100.26:8000/images/0088763.jpg" group-title="VOD-ESPANOL",Regreso al futuro
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/505.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Ratchet &amp; Clank" tvg-logo="http://192.99.100.26:8000/images/0117443.jpg" group-title="VOD-ESPANOL",Ratchet &amp; Clank
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/523.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Pulp Fiction" tvg-logo="http://192.99.100.26:8000/images/0110912.jpg" group-title="VOD-ESPANOL",Pulp Fiction
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/524.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Objetivo: Londres" tvg-logo="http://192.99.100.26:8000/images/3300542.jpg" group-title="VOD-ESPANOL",Objetivo: Londres
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/529.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Objetivo: La Casa Blanca" tvg-logo="http://192.99.100.26:8000/images/2302755.jpg" group-title="VOD-ESPANOL",Objetivo: La Casa Blanca
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/526.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Miss Peregrine y los NiÃ±os Peculiares" tvg-logo="http://192.99.100.26:8000/images/1935859.jpg" group-title="VOD-ESPANOL",Miss Peregrine y los NiÃ±os Peculiares
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/528.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Mike and Dave Need Wedding Dates" tvg-logo="http://192.99.100.26:8000/images/2823054.jpg" group-title="VOD-ESPANOL",Mike and Dave Need Wedding Dates
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/527.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Mascotas" tvg-logo="http://192.99.100.26:8000/images/2709768.jpg" group-title="VOD-ESPANOL",Mascotas
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/512.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Juego de armas" tvg-logo="http://192.99.100.26:8000/images/2005151.jpg" group-title="VOD-ESPANOL",Juego de armas
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/503.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Into the Inferno" tvg-logo="http://192.99.100.26:8000/images/4846318.jpg" group-title="VOD-ESPANOL",Into the Inferno
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/531.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="In Time" tvg-logo="http://192.99.100.26:8000/images/1637688.jpg" group-title="VOD-ESPANOL",In Time
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/532.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Gladiator" tvg-logo="http://192.99.100.26:8000/images/0172495.jpg" group-title="VOD-ESPANOL",Gladiator
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/533.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Ghostbusters" tvg-logo="http://192.99.100.26:8000/images/1289401.jpg" group-title="VOD-ESPANOL",Ghostbusters
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/534.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Forrest Gump" tvg-logo="http://192.99.100.26:8000/images/0109830.jpg" group-title="VOD-ESPANOL",Forrest Gump
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/535.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="EscuadrÃ³n Suicida" tvg-logo="http://192.99.100.26:8000/images/1386697.jpg" group-title="VOD-ESPANOL",EscuadrÃ³n Suicida
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/520.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El pianista" tvg-logo="http://192.99.100.26:8000/images/0253474.jpg" group-title="VOD-ESPANOL",El pianista
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/513.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El otro lado de la puerta" tvg-logo="http://192.99.100.26:8000/images/3702652.jpg" group-title="VOD-ESPANOL",El otro lado de la puerta
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/514.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El lobo de Wall Street" tvg-logo="http://192.99.100.26:8000/images/0993846.jpg" group-title="VOD-ESPANOL",El lobo de Wall Street
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/509.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El Demonio Neon" tvg-logo="http://192.99.100.26:8000/images/1974419.jpg" group-title="VOD-ESPANOL",El Demonio Neon
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/515.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El dÃ­a de maÃ±ana" tvg-logo="http://192.99.100.26:8000/images/0319262.jpg" group-title="VOD-ESPANOL",El dÃ­a de maÃ±ana
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/518.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El cazador y la reina del hielo" tvg-logo="http://192.99.100.26:8000/images/2381991.jpg" group-title="VOD-ESPANOL",El cazador y la reina del hielo
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/516.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El abogado del mal" tvg-logo="http://192.99.100.26:8000/images/3503406.jpg" group-title="VOD-ESPANOL",El abogado del mal
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/510.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Ciguenas" tvg-logo="http://192.99.100.26:8000/images/4624424.jpg" group-title="VOD-ESPANOL",Ciguenas
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/521.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Asedio de Jadotville" tvg-logo="http://192.99.100.26:8000/images/3922798.jpg" group-title="VOD-ESPANOL",Asedio de Jadotville
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/511.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="ARQ" tvg-logo="http://192.99.100.26:8000/images/5640450.jpg" group-title="VOD-ESPANOL",ARQ
+http://192.99.100.26:8000/movie/jeancarlomendozaflores/gmail/536.mkv</pre>
